@@ -1,0 +1,11 @@
+public enum Messages {
+    WAIT,
+
+    GIMME_DECK, GIMME_INIT_HAND_APPROVAL, GIMME_CARD,
+
+    RECV_INIT_HAND, RECV_ORDER,
+
+    SHOW_INIT_HAND,
+
+    YOU_FIRST, YOU_SECOND
+}
